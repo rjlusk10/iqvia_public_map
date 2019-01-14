@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "02013", "name": "Aleutians East", "County": "Aleutians East, AK", "State": "AK", "FIPS_County_Code": "02013", "Prescribing_Rate": null, "og_year": 2015, "Prescribing_Rate_per_100K": null, "state_fips_code": 2.0, "county_fips_code": 2013.0, "state_name": "Alaska", "state_choropleth_id": "USA102", "population": 3346.0, "year": 2015.0, "opiod_awards_amount_per_100k": null, "opioid_claims_per_100k": null, "Prescription Rate categories": "Not Available" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -158.893615, 56.793925 ], [ -159.901372, 56.492694 ], [ -159.86851, 55.89023 ], [ -159.561801, 55.632814 ], [ -159.813741, 55.857368 ], [ -160.536697, 55.473983 ], [ -161.506115, 55.364444 ], [ -161.960701, 55.107028 ], [ -163.034181, 54.942719 ], [ -163.587352, 54.614103 ], [ -164.847049, 54.416933 ], [ -164.551294, 54.88795 ], [ -162.880827, 55.183705 ], [ -161.807347, 55.89023 ], [ -160.585989, 55.988815 ], [ -159.813741, 56.547463 ], [ -158.893615, 56.804879 ], [ -158.893615, 56.793925 ] ] ] } }
+]
+}
